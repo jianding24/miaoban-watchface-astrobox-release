@@ -26,7 +26,7 @@ AstroBox 官方 `devices_v2.json` 当前未列出小米手环 8 Pro 设备 ID，
 ## 媒体素材
 
 - media/icon.png
-- media/cover.png：1200x800 AstroBox 横向封面
+- media/cover.jpg：1200x800 AstroBox 横向封面
 - media/preview-9pro-10pro.png
 - media/preview-settings.png
 - media/preview-task.png
@@ -38,7 +38,7 @@ AstroBox 官方 `devices_v2.json` 当前未列出小米手环 8 Pro 设备 ID，
 正式上架优先使用 AstroBox CreatorConsole。CreatorConsole 会上传/更新资源发布仓库，读取资源仓库提交短哈希，并在提交 PR 时更新官方源 `index_v2.csv`。下面 CSV 仅用于核对字段，不作为手工提交入口。
 
 ```csv
-979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,<commit>,media/icon.png,media/cover.png,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,
+979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,<commit>,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,
 ```
 
 ## 发布注意
