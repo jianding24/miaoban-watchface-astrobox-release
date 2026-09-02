@@ -22,14 +22,14 @@
   },
   "links": [
     {
-      "icon": "shopping-cart",
       "title": "了解喵伴应用",
-      "url": "https://www.ifdian.net/item/54971e167e8c11f1bb1e5254001e7c00"
+      "url": "https://www.ifdian.net/item/54971e167e8c11f1bb1e5254001e7c00",
+      "icon": "shopping-cart"
     },
     {
-      "icon": "house",
       "title": "爱发电主页",
-      "url": "https://www.ifdian.net/a/a_wu__"
+      "url": "https://www.ifdian.net/a/a_wu__",
+      "icon": "house"
     }
   ],
   "downloads": {
@@ -66,5 +66,14 @@
       "file_name": "downloads/miaoban-watchface-rw5-rw6-1.0.0.face"
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "recommend": [
+        {
+          "type": "resource",
+          "id": "com.awu.watch.petpal"
+        }
+      ]
+    }
+  }
 }
