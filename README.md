@@ -8,18 +8,18 @@
 - 类型：watchface
 - 价格：免费
 - 作者：阿呜（AstroBox 绑定名：A_WU）
-- 版本：1.1.0
+- 版本：1.2.0
 
 ## 支持设备
 
-- xmb9：downloads/miaoban-watchface-band9-1.1.0.face
-- xmb9p：downloads/miaoban-watchface-9pro-10pro-1.1.0.face
-- xmb10：downloads/miaoban-watchface-band10-1.1.0.face
-- xmb10nfc：downloads/miaoban-watchface-band10-1.1.0.face
-- xmb10p：downloads/miaoban-watchface-9pro-10pro-1.1.0.face
-- xmrw5：downloads/miaoban-watchface-rw5-rw6-1.1.0.face
-- xmrw5xring：downloads/miaoban-watchface-rw5-rw6-1.1.0.face
-- xmrw6：downloads/miaoban-watchface-rw5-rw6-1.1.0.face
+- xmb9：downloads/miaoban-watchface-band9-1.2.0.face
+- xmb9p：downloads/miaoban-watchface-9pro-10pro-1.2.0.face
+- xmb10：downloads/miaoban-watchface-band10-1.2.0.face
+- xmb10nfc：downloads/miaoban-watchface-band10-1.2.0.face
+- xmb10p：downloads/miaoban-watchface-9pro-10pro-1.2.0.face
+- xmrw5：downloads/miaoban-watchface-rw5-rw6-1.2.0.face
+- xmrw5xring：downloads/miaoban-watchface-rw5-rw6-1.2.0.face
+- xmrw6：downloads/miaoban-watchface-rw5-rw6-1.2.0.face
 
 AstroBox 官方 `devices_v2.json` 当前未列出小米手环 8 Pro 设备 ID，因此 8Pro 包先保留在 downloads 目录备用，不写入 `manifest_v2.json`。
 

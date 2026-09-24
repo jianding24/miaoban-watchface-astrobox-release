@@ -40,90 +40,90 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "1.1.0",
-      "file_name": "downloads/miaoban-watchface-band9-1.1.0.face",
-      "versionCode": 110,
+      "version": "1.2.0",
+      "file_name": "downloads/miaoban-watchface-band9-1.2.0.face",
+      "versionCode": 120,
       "updatelogs": [
         {
-          "version": "1.1.0",
-          "content": "新增息屏表盘。\n优化喵伴时刻任务体验。"
+          "version": "1.2.0",
+          "content": "优化喵伴时刻任务体验。"
         }
       ]
     },
     "xmb9p": {
-      "version": "1.1.0",
-      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.1.0.face",
-      "versionCode": 110,
+      "version": "1.2.0",
+      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.2.0.face",
+      "versionCode": 120,
       "updatelogs": [
         {
-          "version": "1.1.0",
-          "content": "新增息屏表盘。\n优化喵伴时刻任务体验。"
+          "version": "1.2.0",
+          "content": "优化喵伴时刻任务体验。"
         }
       ]
     },
     "xmb10": {
-      "version": "1.1.0",
-      "file_name": "downloads/miaoban-watchface-band10-1.1.0.face",
-      "versionCode": 110,
+      "version": "1.2.0",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.0.face",
+      "versionCode": 120,
       "updatelogs": [
         {
-          "version": "1.1.0",
-          "content": "新增息屏表盘。\n优化喵伴时刻任务体验。"
+          "version": "1.2.0",
+          "content": "优化喵伴时刻任务体验。"
         }
       ]
     },
     "xmb10nfc": {
-      "version": "1.1.0",
-      "file_name": "downloads/miaoban-watchface-band10-1.1.0.face",
-      "versionCode": 110,
+      "version": "1.2.0",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.0.face",
+      "versionCode": 120,
       "updatelogs": [
         {
-          "version": "1.1.0",
-          "content": "新增息屏表盘。\n优化喵伴时刻任务体验。"
+          "version": "1.2.0",
+          "content": "优化喵伴时刻任务体验。"
         }
       ]
     },
     "xmb10p": {
-      "version": "1.1.0",
-      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.1.0.face",
-      "versionCode": 110,
+      "version": "1.2.0",
+      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.2.0.face",
+      "versionCode": 120,
       "updatelogs": [
         {
-          "version": "1.1.0",
-          "content": "新增息屏表盘。\n优化喵伴时刻任务体验。"
+          "version": "1.2.0",
+          "content": "优化喵伴时刻任务体验。"
         }
       ]
     },
     "xmrw5": {
-      "version": "1.1.0",
-      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.1.0.face",
-      "versionCode": 110,
+      "version": "1.2.0",
+      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.0.face",
+      "versionCode": 120,
       "updatelogs": [
         {
-          "version": "1.1.0",
-          "content": "新增息屏表盘。\n优化喵伴时刻任务体验。"
+          "version": "1.2.0",
+          "content": "优化喵伴时刻任务体验。"
         }
       ]
     },
     "xmrw5xring": {
-      "version": "1.1.0",
-      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.1.0.face",
-      "versionCode": 110,
+      "version": "1.2.0",
+      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.0.face",
+      "versionCode": 120,
       "updatelogs": [
         {
-          "version": "1.1.0",
-          "content": "新增息屏表盘。\n优化喵伴时刻任务体验。"
+          "version": "1.2.0",
+          "content": "优化喵伴时刻任务体验。"
         }
       ]
     },
     "xmrw6": {
-      "version": "1.1.0",
-      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.1.0.face",
-      "versionCode": 110,
+      "version": "1.2.0",
+      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.0.face",
+      "versionCode": 120,
       "updatelogs": [
         {
-          "version": "1.1.0",
-          "content": "新增息屏表盘。\n优化喵伴时刻任务体验。"
+          "version": "1.2.0",
+          "content": "优化喵伴时刻任务体验。"
         }
       ]
     }
