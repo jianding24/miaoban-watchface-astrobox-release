@@ -20,6 +20,8 @@
 - xmrw5：downloads/miaoban-watchface-rw5-rw6-1.2.0.face
 - xmrw5xring：downloads/miaoban-watchface-rw5-rw6-1.2.0.face
 - xmrw6：downloads/miaoban-watchface-rw5-rw6-1.2.0.face
+- xmb11：downloads/miaoban-watchface-band10-1.2.0.face
+- xmb11nfc：downloads/miaoban-watchface-band10-1.2.0.face
 
 AstroBox 官方 `devices_v2.json` 当前未列出小米手环 8 Pro 设备 ID，因此 8Pro 包先保留在 downloads 目录备用，不写入 `manifest_v2.json`。
 
@@ -36,10 +38,10 @@ AstroBox 官方 `devices_v2.json` 当前未列出小米手环 8 Pro 设备 ID，
 
 ## AstroBox V2 提交信息
 
-正式上架优先使用 AstroBox CreatorConsole。CreatorConsole 会上传/更新资源发布仓库，读取资源仓库提交短哈希，并在提交 PR 时更新官方源 `index_v2.csv`。下面 CSV 仅用于核对字段，不作为手工提交入口。
+正式上架优先使用 AstroBox CreatorConsole。CreatorConsole 会上传/更新资源发布仓库，读取资源仓库提交短哈希，并在提交 PR 时生成 `tmp/<用户>/<仓库>/resource.csv` 和 `request.json`，由官方流程更新 `index_v2.csv`。下面 CSV 仅用于核对字段，不作为手工提交入口。
 
 ```csv
-979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,<commit>,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,
+979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,<commit>,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,
 ```
 
 ## 发布注意
