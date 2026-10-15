@@ -126,11 +126,33 @@
           "content": "优化喵伴时刻任务体验。"
         }
       ]
+    },
+    "xmb11": {
+      "version": "1.2.0",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.0.face",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "优化喵伴时刻任务体验。"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.2.0",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.0.face",
+      "versionCode": 120,
+      "updatelogs": [
+        {
+          "version": "1.2.0",
+          "content": "优化喵伴时刻任务体验。"
+        }
+      ]
     }
   },
   "ext": {
     "bundledResources": {
-      "recommend": [
+      "recommended": [
         {
           "type": "resource",
           "id": "com.awu.watch.petpal"
