@@ -40,10 +40,14 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "1.2.0",
-      "file_name": "downloads/miaoban-watchface-band9-1.2.0.face",
-      "versionCode": 120,
+      "version": "1.2.1",
+      "file_name": "downloads/miaoban-watchface-band9-1.2.1.face",
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "补充表盘操作说明。"
+        },
         {
           "version": "1.2.0",
           "content": "优化喵伴时刻任务体验。"
@@ -51,10 +55,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.2.0",
-      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.2.0.face",
-      "versionCode": 120,
+      "version": "1.2.1",
+      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.2.1.face",
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "补充表盘操作说明。"
+        },
         {
           "version": "1.2.0",
           "content": "优化喵伴时刻任务体验。"
@@ -62,10 +70,14 @@
       ]
     },
     "xmb10": {
-      "version": "1.2.0",
-      "file_name": "downloads/miaoban-watchface-band10-1.2.0.face",
-      "versionCode": 120,
+      "version": "1.2.1",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.1.face",
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "补充表盘操作说明。"
+        },
         {
           "version": "1.2.0",
           "content": "优化喵伴时刻任务体验。"
@@ -73,10 +85,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.2.0",
-      "file_name": "downloads/miaoban-watchface-band10-1.2.0.face",
-      "versionCode": 120,
+      "version": "1.2.1",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.1.face",
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "补充表盘操作说明。"
+        },
         {
           "version": "1.2.0",
           "content": "优化喵伴时刻任务体验。"
@@ -84,10 +100,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.2.0",
-      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.2.0.face",
-      "versionCode": 120,
+      "version": "1.2.1",
+      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.2.1.face",
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "补充表盘操作说明。"
+        },
         {
           "version": "1.2.0",
           "content": "优化喵伴时刻任务体验。"
@@ -95,10 +115,14 @@
       ]
     },
     "xmrw5": {
-      "version": "1.2.0",
-      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.0.face",
-      "versionCode": 120,
+      "version": "1.2.1",
+      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.1.face",
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "补充表盘操作说明。"
+        },
         {
           "version": "1.2.0",
           "content": "优化喵伴时刻任务体验。"
@@ -106,10 +130,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.2.0",
-      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.0.face",
-      "versionCode": 120,
+      "version": "1.2.1",
+      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.1.face",
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "补充表盘操作说明。"
+        },
         {
           "version": "1.2.0",
           "content": "优化喵伴时刻任务体验。"
@@ -117,10 +145,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.2.0",
-      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.0.face",
-      "versionCode": 120,
+      "version": "1.2.1",
+      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.1.face",
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "补充表盘操作说明。"
+        },
         {
           "version": "1.2.0",
           "content": "优化喵伴时刻任务体验。"
@@ -128,10 +160,14 @@
       ]
     },
     "xmb11": {
-      "version": "1.2.0",
-      "file_name": "downloads/miaoban-watchface-band10-1.2.0.face",
-      "versionCode": 120,
+      "version": "1.2.1",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.1.face",
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "补充表盘操作说明。"
+        },
         {
           "version": "1.2.0",
           "content": "新增小米手环 11 / 11 NFC 支持。"
@@ -139,10 +175,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.2.0",
-      "file_name": "downloads/miaoban-watchface-band10-1.2.0.face",
-      "versionCode": 120,
+      "version": "1.2.1",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.1.face",
+      "versionCode": 66049,
       "updatelogs": [
+        {
+          "version": "1.2.1",
+          "content": "补充表盘操作说明。"
+        },
         {
           "version": "1.2.0",
           "content": "新增小米手环 11 / 11 NFC 支持。"
