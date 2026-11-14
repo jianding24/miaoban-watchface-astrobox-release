@@ -28,9 +28,9 @@
       "icon": "shopping-cart"
     },
     {
-      "title": "爱发电主页",
-      "url": "https://www.ifdian.net/a/a_wu__",
-      "icon": "house"
+      "title": "喵伴视频介绍",
+      "url": "https://xhslink.cn/o/6xtlrvCmXiU",
+      "icon": "play-circle"
     },
     {
       "title": "喵伴交流群",
@@ -40,10 +40,14 @@
   ],
   "downloads": {
     "xmb9": {
-      "version": "1.2.1",
-      "file_name": "downloads/miaoban-watchface-band9-1.2.1.face",
-      "versionCode": 66049,
+      "version": "1.2.2",
+      "file_name": "downloads/miaoban-watchface-band9-1.2.2.face",
+      "versionCode": 66050,
       "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "调整钓鱼奖励：成功收线得1个小鱼干，每次最多3个、每天最多6个；优化任务提示显示。"
+        },
         {
           "version": "1.2.1",
           "content": "补充表盘操作说明。"
@@ -55,10 +59,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.2.1",
-      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.2.1.face",
-      "versionCode": 66049,
+      "version": "1.2.2",
+      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.2.2.face",
+      "versionCode": 66050,
       "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "调整钓鱼奖励：成功收线得1个小鱼干，每次最多3个、每天最多6个；优化任务提示显示。"
+        },
         {
           "version": "1.2.1",
           "content": "补充表盘操作说明。"
@@ -70,10 +78,14 @@
       ]
     },
     "xmb10": {
-      "version": "1.2.1",
-      "file_name": "downloads/miaoban-watchface-band10-1.2.1.face",
-      "versionCode": 66049,
+      "version": "1.2.2",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.2.face",
+      "versionCode": 66050,
       "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "调整钓鱼奖励：成功收线得1个小鱼干，每次最多3个、每天最多6个；优化任务提示显示。"
+        },
         {
           "version": "1.2.1",
           "content": "补充表盘操作说明。"
@@ -85,10 +97,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.2.1",
-      "file_name": "downloads/miaoban-watchface-band10-1.2.1.face",
-      "versionCode": 66049,
+      "version": "1.2.2",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.2.face",
+      "versionCode": 66050,
       "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "调整钓鱼奖励：成功收线得1个小鱼干，每次最多3个、每天最多6个；优化任务提示显示。"
+        },
         {
           "version": "1.2.1",
           "content": "补充表盘操作说明。"
@@ -100,10 +116,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.2.1",
-      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.2.1.face",
-      "versionCode": 66049,
+      "version": "1.2.2",
+      "file_name": "downloads/miaoban-watchface-9pro-10pro-1.2.2.face",
+      "versionCode": 66050,
       "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "调整钓鱼奖励：成功收线得1个小鱼干，每次最多3个、每天最多6个；优化任务提示显示。"
+        },
         {
           "version": "1.2.1",
           "content": "补充表盘操作说明。"
@@ -115,10 +135,14 @@
       ]
     },
     "xmrw5": {
-      "version": "1.2.1",
-      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.1.face",
-      "versionCode": 66049,
+      "version": "1.2.2",
+      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.2.face",
+      "versionCode": 66050,
       "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "调整钓鱼奖励：成功收线得1个小鱼干，每次最多3个、每天最多6个；优化任务提示显示。"
+        },
         {
           "version": "1.2.1",
           "content": "补充表盘操作说明。"
@@ -130,10 +154,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.2.1",
-      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.1.face",
-      "versionCode": 66049,
+      "version": "1.2.2",
+      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.2.face",
+      "versionCode": 66050,
       "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "调整钓鱼奖励：成功收线得1个小鱼干，每次最多3个、每天最多6个；优化任务提示显示。"
+        },
         {
           "version": "1.2.1",
           "content": "补充表盘操作说明。"
@@ -145,10 +173,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.2.1",
-      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.1.face",
-      "versionCode": 66049,
+      "version": "1.2.2",
+      "file_name": "downloads/miaoban-watchface-rw5-rw6-1.2.2.face",
+      "versionCode": 66050,
       "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "调整钓鱼奖励：成功收线得1个小鱼干，每次最多3个、每天最多6个；优化任务提示显示。"
+        },
         {
           "version": "1.2.1",
           "content": "补充表盘操作说明。"
@@ -160,10 +192,14 @@
       ]
     },
     "xmb11": {
-      "version": "1.2.1",
-      "file_name": "downloads/miaoban-watchface-band10-1.2.1.face",
-      "versionCode": 66049,
+      "version": "1.2.2",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.2.face",
+      "versionCode": 66050,
       "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "调整钓鱼奖励：成功收线得1个小鱼干，每次最多3个、每天最多6个；优化任务提示显示。"
+        },
         {
           "version": "1.2.1",
           "content": "补充表盘操作说明。"
@@ -175,10 +211,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.2.1",
-      "file_name": "downloads/miaoban-watchface-band10-1.2.1.face",
-      "versionCode": 66049,
+      "version": "1.2.2",
+      "file_name": "downloads/miaoban-watchface-band10-1.2.2.face",
+      "versionCode": 66050,
       "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "调整钓鱼奖励：成功收线得1个小鱼干，每次最多3个、每天最多6个；优化任务提示显示。"
+        },
         {
           "version": "1.2.1",
           "content": "补充表盘操作说明。"
